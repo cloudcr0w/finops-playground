@@ -1,0 +1,5 @@
+[
+  {"date": "2025-09-01", "service": "EC2", "cost": 2.50},
+  {"date": "2025-09-01", "service": "S3", "cost": 0.30},
+  {"date": "2025-09-02", "service": "Lambda", "cost": 0.05}
+]
